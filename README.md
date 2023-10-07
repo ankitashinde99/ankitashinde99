@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Ankita Shinde
 - 👀 I’m interested in Product Management 
 - 🌱 I’m currently learning Business Analytics from UTDallas
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 ankitashinde99/ankitashinde99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
